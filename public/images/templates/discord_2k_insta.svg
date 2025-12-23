@@ -1,0 +1,48 @@
+<svg viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="#FFFFFF"/>
+  
+  <!-- Discord Blurple vertical line on left -->
+  <rect x="0" y="0" width="12" height="1350" fill="#5865F2"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="150" cy="380" r="80" fill="none" stroke="#C7CDF8" stroke-width="2.5"/>
+  <circle cx="930" cy="1000" r="100" fill="#E7E9FD"/>
+  
+  <!-- Header -->
+  <text x="540" y="200" font-family="Arial, sans-serif" font-size="32" fill="#1a1a1a" font-weight="500" letter-spacing="4" text-anchor="middle">DEV WEEKENDS</text>
+  
+  <!-- Discord Blurple badge -->
+  <rect x="365" y="260" width="350" height="60" rx="4" fill="#5865F2"/>
+  <text x="540" y="300" font-family="Arial, sans-serif" font-size="28" fill="#FFF" font-weight="600" text-anchor="middle" letter-spacing="2">DISCORD MILESTONE</text>
+  
+  <!-- Big number -->
+  <text x="540" y="580" font-family="Arial, sans-serif" font-size="220" fill="#1a1a1a" font-weight="bold" text-anchor="middle">2000</text>
+  
+  <!-- Discord Blurple underline -->
+  <rect x="290" y="600" width="500" height="8" fill="#5865F2"/>
+  
+  <!-- Discord Members text -->
+  <text x="540" y="710" font-family="Arial, sans-serif" font-size="58" fill="#5865F2" font-weight="bold" text-anchor="middle">Discord Members</text>
+  
+  <!-- Discord Logo icon -->
+  <rect x="465" y="755" width="150" height="130" rx="8" fill="#5865F2"/>
+  <!-- Official Discord logo -->
+  <g transform="translate(540, 820) scale(3)">
+    <path d="M20.317 4.37a19.791 19.791 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.736 19.736 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028 14.09 14.09 0 0 0 1.226-1.994.076.076 0 0 0-.041-.106 13.107 13.107 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.299 12.299 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.839 19.839 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z" 
+          fill="#FFF" transform="translate(-12, -12)"/>
+  </g>
+  
+  <!-- Subtitle -->
+  <text x="540" y="960" font-family="Arial, sans-serif" font-size="32" fill="#1a1a1a" font-weight="600" text-anchor="middle">200 devs in our community!</text>
+  
+  <!-- Description -->
+  <text x="540" y="1020" font-family="Arial, sans-serif" font-size="24" fill="#666" text-anchor="middle">Daily coding sessions, discussions and networking</text>
+  
+  <!-- Join button -->
+  <rect x="390" y="1080" width="300" height="70" rx="6" fill="#1a1a1a"/>
+  <text x="540" y="1123" font-family="Arial, sans-serif" font-size="28" fill="#FFF" font-weight="600" text-anchor="middle">JOIN SERVER</text>
+  
+  <!-- Discord URL -->
+  <text x="540" y="1200" font-family="Arial, sans-serif" font-size="20" fill="#999" text-anchor="middle" letter-spacing="1">https://discord.com/invite/Cy7Rgkf4Up</text>
+</svg>

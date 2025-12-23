@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1080" height="1080" fill="#FFFFFF"/>
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1350" fill="#FFFFFF"/>
   
   <defs>
     <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
       <path d="M 60 0 L 0 0 0 60" fill="none" stroke="#E4E4E7" stroke-width="0.5"/>
     </pattern>
   </defs>
-  <rect width="1080" height="1080" fill="url(#grid)" opacity="0.5"/>
+  <rect width="1080" height="1350" fill="url(#grid)" opacity="0.5"/>
 
-  <g transform="translate(80, 60)">
+  <g transform="translate(80, 195)">
     <text x="0" y="0" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#71717A" letter-spacing="2">DEV WEEKENDS</text>
     <text x="0" y="80" font-family="system-ui, sans-serif" font-size="72" font-weight="900" fill="#18181B" letter-spacing="-2">Weekly Schedule</text>
     <rect x="0" y="120" width="180" height="6" fill="#18181B"/>
@@ -17,7 +17,7 @@
     <text x="0" y="210" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#6B7280">21-12-2025 to 28-12-2025</text>
   </g>
 
-  <g transform="translate(80, 300)">
+  <g transform="translate(80, 435)">
     <text x="0" y="0" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#000000" letter-spacing="2">DSA SESSIONS</text>
     <rect x="0" y="12" width="160" height="4" fill="#000000" rx="2"/>
     
@@ -43,7 +43,7 @@
     </g>
   </g>
 
-  <g transform="translate(80, 700)">
+  <g transform="translate(80, 835)">
     <text x="0" y="0" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#000000" letter-spacing="2">ENGINEERING SESSIONS</text>
     <rect x="0" y="12" width="200" height="4" fill="#000000" rx="2"/>
     
@@ -62,10 +62,10 @@
     </g>
   </g>
 
-  <g transform="translate(80, 970)">
+  <g transform="translate(80, 1105)">
     <rect x="0" y="0" width="440" height="70" fill="#000000" rx="12"/>
     <text x="220" y="46" font-family="system-ui, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" text-anchor="middle">Join Dev Weekends</text>
   </g>
 
-  <text x="1000" y="1000" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#000000" text-anchor="end">@devweekends</text>
+  <text x="1000" y="1135" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="#000000" text-anchor="end">@devweekends</text>
 </svg>

@@ -1,0 +1,56 @@
+<svg viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="#F5F5F5"/>
+  
+  <!-- Header Section -->
+  <text x="90" y="140" font-family="Arial, sans-serif" font-size="30" fill="#888" font-weight="500" letter-spacing="2">DEV WEEKENDS</text>
+  
+  <text x="90" y="225" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#000">Weekly Schedule</text>
+  
+  <!-- Underline under "Weekly" -->
+  <rect x="90" y="245" width="280" height="7" fill="#000"/>
+  
+  <!-- This Week's Sessions -->
+  <text x="90" y="330" font-family="Arial, sans-serif" font-size="40" font-weight="600" fill="#000">This Weeks Sessions</text>
+  
+  <!-- Date Range -->
+  <text x="90" y="375" font-family="Arial, sans-serif" font-size="24" fill="#666">08-12-2025 to 14-12-2025</text>
+  
+  <!-- DSA SESSIONS Header -->
+  <text x="90" y="455" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#000">DSA SESSIONS</text>
+  <rect x="90" y="465" width="240" height="5" fill="#000"/>
+  
+  <!-- String - Day 1 -->
+  <rect x="90" y="500" width="900" height="95" rx="8" fill="#FFF" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="135" cy="538" r="11" fill="#4CAF50"/>
+  <text x="175" y="540" font-family="Arial, sans-serif" font-size="31" font-weight="bold" fill="#000">String</text>
+  <text x="175" y="572" font-family="Arial, sans-serif" font-size="21" fill="#666">Monday, 9:00 PM - Speakers: Ahad Ali, M. Ali Khan</text>
+  
+  <!-- String - Day 2 -->
+  <rect x="90" y="610" width="900" height="95" rx="8" fill="#FFF" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="135" cy="648" r="11" fill="#4CAF50"/>
+  <text x="175" y="650" font-family="Arial, sans-serif" font-size="31" font-weight="bold" fill="#000">String</text>
+  <text x="175" y="682" font-family="Arial, sans-serif" font-size="21" fill="#666">Wednesday, 9:00 PM - Speakers: Usama, M. Ali Khan</text>
+  
+  <!-- ENGINEERING SESSIONS Header -->
+  <text x="90" y="770" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#000">ENGINEERING SESSIONS</text>
+  <rect x="90" y="780" width="380" height="5" fill="#000"/>
+  
+  <!-- React Session 1 -->
+  <rect x="90" y="815" width="900" height="95" rx="8" fill="#FFF" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="135" cy="853" r="11" fill="#2196F3"/>
+  <text x="175" y="855" font-family="Arial, sans-serif" font-size="31" font-weight="bold" fill="#000">React</text>
+  <text x="175" y="887" font-family="Arial, sans-serif" font-size="21" fill="#666">Saturday, 8:00 PM - Speakers: Ahad Ali, Ameer Hamza</text>
+  
+  <!-- React Session 2 -->
+  <rect x="90" y="925" width="900" height="95" rx="8" fill="#FFF" stroke="#DDD" stroke-width="1.5"/>
+  <circle cx="135" cy="963" r="11" fill="#2196F3"/>
+  <text x="175" y="965" font-family="Arial, sans-serif" font-size="31" font-weight="bold" fill="#000">React</text>
+  <text x="175" y="997" font-family="Arial, sans-serif" font-size="21" fill="#666">Sunday, 8:00 PM - Speakers: M. Ali Khan, Aqib</text>
+  
+  <!-- Footer -->
+  <rect x="90" y="1070" width="400" height="75" rx="6" fill="#000"/>
+  <text x="290" y="1117" font-family="Arial, sans-serif" font-size="30" font-weight="600" fill="#FFF" text-anchor="middle">Join Dev Weekends</text>
+  
+  <text x="900" y="1117" font-family="Arial, sans-serif" font-size="28" fill="#000" text-anchor="end">@devweekends</text>
+</svg>
